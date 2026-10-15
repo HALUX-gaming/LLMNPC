@@ -38,7 +38,7 @@ LLMを活用することで、NPC同士の相互作用から自然な会話や�
 
 \## 動作デモ
 
-動画URL：後から追加
+動画URL：https://youtu.be/rUY7fi7LktE?si=dTr2UoqtgyFeGJ62
 
 
 
